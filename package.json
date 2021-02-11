@@ -1,0 +1,24 @@
+{
+  "name": "everyday",
+  "version": "1.0.0",
+  "description": "idk some shit database maybe",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index",
+    "dev":"nodemon pnpm start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NazeemNato/everyday.git"
+  },
+  "author": "NazeemNato",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NazeemNato/everyday/issues"
+  },
+  "homepage": "https://github.com/NazeemNato/everyday#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
